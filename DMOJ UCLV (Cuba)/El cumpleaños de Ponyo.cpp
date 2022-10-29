@@ -114,5 +114,7 @@ int linky(){
     }
 
     rep(i, n) pf(arr[b[i] - 1] - 1);
+    
+    return 0;
 
 }
